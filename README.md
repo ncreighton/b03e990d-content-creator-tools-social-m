@@ -1,2 +1,25 @@
-# b03e990d-content-creator-tools-social-m
-Stop starting from a blank document every single time. Start professional results from day one.  Professional formatting tested across different screen sizes and printers. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Content Creator Tools Social Media Content Template — fully configured and ready to use - Full
+# Content Creator Tools Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM4gz7r1aQA09a7jCcZJ1n)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM4gz7r1aQA09a7jCcZJ1n)
+
